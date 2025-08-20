@@ -114,7 +114,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para de
 
 ## 👨‍💻 Desenvolvido por
 
-[Seu Nome](https://github.com/seu-usuario)
+[Seu Nome](https://github.com/jorgeguto87)
 
 ---
 ⭐️ Se este projeto foi útil para você, deixe uma estrela no repositório!
