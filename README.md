@@ -40,17 +40,17 @@ Um conversor de moedas elegante e eficiente focado nas principais moedas latino-
 ## 🖥️ Capturas de Tela
 
 ### Menu Principal
-![Menu Principal](https://via.placeholder.com/600x400/4A![conversorInicial](https://github.com/user-attachments/assets/55cf7685-9ea2-4767-af6d-7325687bd4ba)
+![conversorInicial](https://github.com/user-attachments/assets/55cf7685-9ea2-4767-af6d-7325687bd4ba)
 90E2/FFFFFF?text=Menu+Principal+Conversor)
 *Interface inicial do conversor com opções intuitivas*
 
 ### Processo de Conversão
-![Processo Conversão](https://via.placeholder.com/600x400/50![conversorPrincipal](https://github.com/user-attachments/assets/243ac52c-4ef2-4c90-84fa-db9e9732e5ee)
+![conversorPrincipal](https://github.com/user-attachments/assets/243ac52c-4ef2-4c90-84fa-db9e9732e5ee)
 C878/FFFFFF?text=Seleção+de+Moedas)
 *Seleção das moedas de origem e destino*
 
 ### Resultados
-![Resultados](https://via.placeholder.com/600x400/FF6B6B/FF![conversorConversao](https://github.com/user-attachments/assets/b0e9d35a-28a6-4870-8848-5612e4a8c453)
+![conversorConversao](https://github.com/user-attachments/assets/b0e9d35a-28a6-4870-8848-5612e4a8c453)
 FFFF?text=Resultado+da+Conversão)
 *Exemplo de resultado de conversão com taxa de câmbio*
 
