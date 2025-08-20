@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Conversor_Dollar_Latino:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Conversor_Dollar_Latino_jar</output-path>
+    <root id="archive" name="Conversor_Dollar_Latino.jar">
+      <element id="module-output" name="Conversor_Dollar_Latino" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../dependencias/gson-2.13.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
